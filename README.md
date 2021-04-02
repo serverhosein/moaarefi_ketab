@@ -1,8 +1,1 @@
-{"متن":"اخرجی ها1"
-,"تصویر":"
-https://uupload.ir/files/09y_icon.png
-
-","ویدیو":"
-https://uupload.ir/view/0q5c_fun.shoow1_14000108_120112795.mp4/
-
-"}
+{"متن":"اخراجی ها","ویدیو":"https://www.aparat.com/v/M6Jnk/فیلم_سینمایی_اخراجی_ها_1_%7C_با_کیفیت_عالی"}
