@@ -1,4 +1,7 @@
-{"تصویر":"
-https://uupload.ir/files/gx9i_logo3_23_14636.png
+{"متن":"اخرجی ها1","تصویر":"
+https://uupload.ir/files/09y_icon.png
 
-","متن":"film"}
+","ویدیو":"
+https://uupload.ir/view/0q5c_fun.shoow1_14000108_120112795.mp4/
+
+"}
